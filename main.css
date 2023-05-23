@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(139, 139, 214);
+    height: 120px;
+}
+
+header h1 {
+    text-align: center;
+    padding: 36px 36px;
+}
+
+.container {
+    align-items: center;
+    display: block;
+}
+
+.form-campo {
+    margin-bottom: 16px;
+    margin-left: 650px;
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+button {
+    margin-left: 650px;
+    width: 165px;
+}
